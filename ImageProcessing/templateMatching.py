@@ -1,7 +1,6 @@
 """
 Name: Archit Jaiswal
 
-HW 6
 
 Image recognization using the Cross Correlation technique
 
